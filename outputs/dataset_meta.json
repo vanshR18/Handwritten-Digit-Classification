@@ -1,0 +1,23 @@
+{
+  "num_classes": 10,
+  "class_names": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
+  ],
+  "img_size": 28,
+  "channels": 1,
+  "mnist_mean": 0.1307,
+  "mnist_std": 0.308,
+  "n_train": 54000,
+  "n_val": 6000,
+  "n_test": 10000,
+  "batch_size": 64
+}
